@@ -1,2 +1,1 @@
-# Projeto-39
-Este projeto está sendo direcionado à Byjus
+# PRO-V2-C39-ModeloProjeto
